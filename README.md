@@ -38,7 +38,7 @@ Other:      Agile, Consulting, Technical Writing
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/kevin-sames)  
 - 🐦 Twitter: [@keevee94](https://twitter.com/keevee94)  
 - ✍️ Blog: [Medium](https://medium.com/subscribe/@kevinsames)  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📧 Email: [connect@kevin.fsames.com](mailto:connect@kevin.fsames.com)  
 
 ## 💡 Fun Facts
 
