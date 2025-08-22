@@ -1,23 +1,25 @@
 # Hi there! 👋 I'm Kevin Sames
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and contributing to the open-source community.
+Welcome to my GitHub profile! I'm a **Data & ML Engineer** with a background in mathematics and consulting.  
+I love solving complex problems with data, building scalable solutions, and sharing knowledge with the community.  
 
 ## 🚀 About Me
 
-- 💻 Software Developer with a passion for clean, efficient code
-- 🌱 Always learning new technologies and improving my skills
-- 🎯 Focused on creating meaningful projects that solve real-world problems
-- 📚 Believer in continuous learning and knowledge sharing
+- 💻 Data & Machine Learning Engineer with experience in **Azure & Databricks**  
+- 🧮 Former mathematician turned consultant → now applying structured problem-solving to **Data & AI**  
+- ✍️ Tech blogger sharing insights on [Medium](https://medium.com/subscribe/@kevinsames)  
+- 🌱 Always learning new technologies and pushing myself to grow  
+- 🎯 Focused on delivering **data-driven solutions** that create real business value  
 
 ## 🛠️ Technologies & Tools
 
 ```text
-Languages:  JavaScript, Python, Java, TypeScript
-Frontend:   React, Vue.js, HTML5, CSS3
-Backend:    Node.js, Express, Django, Spring Boot
-Database:   MySQL, PostgreSQL, MongoDB
-Tools:      Git, Docker, VS Code, Linux
-Cloud:      AWS, Azure, Google Cloud Platform
+Languages:  Python, SQL, Scala
+Data:       Databricks, Spark, Delta Lake, MLflow
+Cloud:      Azure (Data Factory, Synapse, Storage), AWS (basic)
+ML/AI:      scikit-learn, TensorFlow, PyTorch
+Tools:      Git, Docker, VS Code, Linux, CI/CD
+Other:      Agile, Consulting, Technical Writing
 ```
 
 ## 📊 GitHub Stats
@@ -26,24 +28,24 @@ Cloud:      AWS, Azure, Google Cloud Platform
 
 ## 🔭 Current Focus
 
-- Building scalable web applications
-- Contributing to open-source projects
-- Learning cloud technologies and DevOps practices
-- Exploring modern development frameworks and tools
+- Building **data platforms** with Databricks & Azure  
+- Applying **machine learning** to real-world business problems  
+- Contributing to open-source & sharing knowledge through blogs  
+- Exploring **MLOps** and modern data engineering practices  
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/kevinsames)
-- 🐦 Twitter: [@kevinsames](https://twitter.com/kevinsames)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/kevin-sames)  
+- 🐦 Twitter: [@keevee94](https://twitter.com/keevee94)  
+- ✍️ Blog: [Medium](https://medium.com/subscribe/@kevinsames)  
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
 
 ## 💡 Fun Facts
 
-- ☕ Coffee enthusiast - my code runs on caffeine!
-- 📖 Love reading about new technologies and best practices
-- 🎵 Enjoy listening to music while coding
-- 🌍 Interested in tech for social good
+- ☕ Coffee powers my ML models ☕  
+- 📖 Always curious about **mathematics, data, and technology**  
+- 🎵 Music helps me get in the coding flow  
+- 🌍 Passionate about using **data for social good**  
 
 ---
 
