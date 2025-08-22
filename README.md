@@ -16,9 +16,9 @@ I love solving complex problems with data, building scalable solutions, and shar
 ```text
 Languages:  Python, SQL, Scala
 Data:       Databricks, Spark, Delta Lake, MLflow
-Cloud:      Azure (Data Factory, Synapse, Storage), AWS (basic)
-ML/AI:      scikit-learn, TensorFlow, PyTorch
-Tools:      Git, Docker, VS Code, Linux, CI/CD
+Cloud:      Azure (Data Factory, Fabric, Storage), AWS (basic)
+ML/AI:      scikit-learn, TensorFlow, PyTorch, Keras
+Tools:      Git, Docker, VS Code, Linux, CI/CD, dbt
 Other:      Agile, Consulting, Technical Writing
 ```
 
